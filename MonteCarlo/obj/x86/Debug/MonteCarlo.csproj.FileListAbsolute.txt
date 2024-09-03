@@ -1,0 +1,15 @@
+C:\Users\Tero\Desktop\temp\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Tero\Desktop\temp\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Tero\Desktop\temp\MonteCarlo\MonteCarlo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tero\Desktop\temp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.exe
+C:\Users\Tero\Desktop\temp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.pdb
+I:\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.exe
+I:\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.pdb
+F:\Tero\Ohjelmointi\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.exe
+F:\Tero\Ohjelmointi\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.pdb
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.exe
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\MonteCarlo\MonteCarlo\obj\x86\Debug\MonteCarlo.pdb
